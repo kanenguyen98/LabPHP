@@ -13,6 +13,7 @@
             echo "<h2>User Info</h2>";
             echo "UserID: ".$nguyennhat->GetUserID()."<br/>";
             echo "UserName: ".$nguyennhat->GetUserName()."<br/>";
+			 echo "UserName: ".$nguyennhat->GetUser()."<br/>";
         ?>
     </div>
 </body>
